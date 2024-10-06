@@ -1,0 +1,3 @@
+/home/aleksey/workspace/drone/build/CMakeFiles/opencv_test.dir
+/home/aleksey/workspace/drone/build/CMakeFiles/edit_cache.dir
+/home/aleksey/workspace/drone/build/CMakeFiles/rebuild_cache.dir

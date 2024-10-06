@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/aleksey/workspace/drone/odometry/build",
+  "command": "/usr/bin/c++  -isystem /usr/include/opencv4 -g -o CMakeFiles/visual_odometry.dir/main.cpp.o -c /home/aleksey/workspace/drone/odometry/main.cpp",
+  "file": "/home/aleksey/workspace/drone/odometry/main.cpp",
+  "output": "CMakeFiles/visual_odometry.dir/main.cpp.o"
+}
+]

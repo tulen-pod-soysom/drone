@@ -1,0 +1,3 @@
+/home/aleksey/workspace/drone/odometry/build/CMakeFiles/visual_odometry.dir
+/home/aleksey/workspace/drone/odometry/build/CMakeFiles/edit_cache.dir
+/home/aleksey/workspace/drone/odometry/build/CMakeFiles/rebuild_cache.dir
